@@ -9,3 +9,6 @@ C:\Users\46181942866\Documents\SegundoTermo\GitZera\2s2019-t2-sprint-2-autopecas
 C:\Users\46181942866\Documents\SegundoTermo\GitZera\2s2019-t2-sprint-2-autopecas-\Senai.AutoPecas.WebApi\Senai.AutoPecas.WebApi\obj\Debug\netcoreapp2.1\Senai.AutoPecas.WebApi.AssemblyInfoInputs.cache
 C:\Users\46181942866\Documents\SegundoTermo\GitZera\2s2019-t2-sprint-2-autopecas-\Senai.AutoPecas.WebApi\Senai.AutoPecas.WebApi\obj\Debug\netcoreapp2.1\Senai.AutoPecas.WebApi.AssemblyInfo.cs
 C:\Users\46181942866\Documents\SegundoTermo\GitZera\2s2019-t2-sprint-2-autopecas-\Senai.AutoPecas.WebApi\Senai.AutoPecas.WebApi\obj\Debug\netcoreapp2.1\Senai.AutoPecas.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\46181942866\Documents\SegundoTermo\GitZera\2s2019-t2-sprint-2-autopecas-\Senai.AutoPecas.WebApi\Senai.AutoPecas.WebApi\bin\Debug\netcoreapp2.1\Senai.AutoPecas.WebApi.pdb
+C:\Users\46181942866\Documents\SegundoTermo\GitZera\2s2019-t2-sprint-2-autopecas-\Senai.AutoPecas.WebApi\Senai.AutoPecas.WebApi\obj\Debug\netcoreapp2.1\Senai.AutoPecas.WebApi.dll
+C:\Users\46181942866\Documents\SegundoTermo\GitZera\2s2019-t2-sprint-2-autopecas-\Senai.AutoPecas.WebApi\Senai.AutoPecas.WebApi\obj\Debug\netcoreapp2.1\Senai.AutoPecas.WebApi.pdb
