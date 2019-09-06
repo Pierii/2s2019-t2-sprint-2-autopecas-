@@ -5,6 +5,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Senai.AutoPecas.WebApi.Domains;
+using Senai.AutoPecas.WebApi.Interefaces;
 using Senai.AutoPecas.WebApi.Repositories;
 
 namespace Senai.AutoPecas.WebApi.Controllers
@@ -14,7 +15,13 @@ namespace Senai.AutoPecas.WebApi.Controllers
     [ApiController]
     public class PecasController : ControllerBase
     {
-        PecaRepository PecaRepository = new PecaRepository();
+           
+        private IPecaRepository PecaRepository { get; set; }
+
+        public PecasController()
+        {
+            PecaRepository = new PecaRepository();
+        }
 
         [HttpGet]
         public IActionResult Listar()

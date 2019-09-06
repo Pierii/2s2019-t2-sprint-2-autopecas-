@@ -1,5 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Senai.AutoPecas.WebApi.Domains;
+using Senai.AutoPecas.WebApi.Interefaces;
 using System;
 using System.Collections.Generic;
 using System.Data.SqlClient;
@@ -8,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace Senai.AutoPecas.WebApi.Repositories
 {
-    public class PecaRepository
+    public class PecaRepository : IPecaRepository
     {
 
         public List<Pecas> Listar()
