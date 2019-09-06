@@ -45,5 +45,5 @@ INSERT INTO Pecas (Codigo, Descricao, Peso, PrecoCusto, PrecoVenda, FornecedorId
 			VALUES	('01', 'Desert Eagle', 1, 1000, 2000, 1)
 					,('02', 'Main Mid', 1, 10, 50, 2);
 
-SELECT * FROM Fornecedores
+SELECT * FROM Usuarios
 
